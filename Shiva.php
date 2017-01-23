@@ -19,3 +19,18 @@ This code will applu only for Homepage
                     }
                 }
             }
+
+/* for mobiles*/
+.monitor_1 {
+                background-size: 688px auto !important;
+                height: 500px;
+                width: 688px;
+                .fader {
+                    left: 15px;
+                    top: 17px;
+                    > div {
+                        height: 336px !important;
+                        width: 656px !important;
+                    }
+                }
+            }
