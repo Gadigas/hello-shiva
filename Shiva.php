@@ -1,41 +1,36 @@
-This is only test file
-This is only test file On Januartlkjadkl
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
-This is only test file
+This is the Latest CSS code
+
+.body{
+background-color:#red;
+}
+
+/**/
+This code will applu only for Homepage
+      .monitor {
+                background-size: 688px auto !important;
+                height: 500px;
+                width: 688px;
+                .fader {
+                    left: 15px;
+                    top: 17px;
+                    > div {
+                        height: 336px !important;
+                        width: 656px !important;
+                    }
+                }
+            }
+
+/* for mobiles*/
+.monitor_1 {
+                background-size: 688px auto !important;
+                height: 500px;
+                width: 688px;
+                .fader {
+                    left: 15px;
+                    top: 17px;
+                    > div {
+                        height: 336px !important;
+                        width: 656px !important;
+                    }
+                }
+            }
